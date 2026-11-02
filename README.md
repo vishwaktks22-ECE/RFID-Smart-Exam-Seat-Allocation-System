@@ -155,6 +155,3 @@ This project provides practical experience in:
 - Web dashboard development
 - Attendance validation and duplicate prevention
 
-## Author
-
-Developed as an engineering project to explore embedded systems, IoT communication, backend development, database integration, and web dashboard development.
