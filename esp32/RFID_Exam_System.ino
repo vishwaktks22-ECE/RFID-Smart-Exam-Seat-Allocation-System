@@ -11,7 +11,7 @@ const char* password = "YOUR_WIFI_PASSWORD";
 
 // Flask API endpoint
 // Change this to the IP address of your Flask server.
-const char* serverURL = "YOUR_SERVER_IP";
+const char* serverURL = "http://YOUR_SERVER_IP:5000/scan";
 
 // RC522 pins
 #define SS_PIN 5
